@@ -1,5 +1,7 @@
 # 此為天氣查詢project
 
+## [網址](https://th1230.github.io/weather-project/)
+
 ## 使用api
 中央氣象局開放資料平臺之資料擷取API 
 * 一般天氣預報-今明 36 小時天氣預報
